@@ -1,0 +1,8 @@
+{
+  "name": "Remix SBTE Bihar Diploma Study App",
+  "description": "Comprehensive SBTE Bihar polytechnic diploma study app with previous year question papers, passing notes, complete syllabus, objective question bank, AI chatbot tutor, and live exam countdown planner for all engineering branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
